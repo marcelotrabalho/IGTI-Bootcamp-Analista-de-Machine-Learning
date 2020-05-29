@@ -18,4 +18,4 @@ Neste desafio serão abordados todos os conceitos apresentados durante a discipl
 
 Os alunos deverão desenvolver a prática e, depois, responder às seguintes questões objetivas:
 
-[PDF do notebook executado]()
+[PDF do notebook executado](/Desafio 2 - Colaboratory.pdf)

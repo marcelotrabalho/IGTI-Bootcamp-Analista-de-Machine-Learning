@@ -18,4 +18,4 @@ Neste desafio serão abordados todos os conceitos apresentados durante a discipl
 
 Os alunos deverão desenvolver a prática e, depois, responder às seguintes questões objetivas:
 
-[PDF do notebook executado](Desafio 2 - Colaboratory.pdf)
+[PDF do notebook executado](https://github.com/marcelotrabalho/IGTI-Bootcamp-Analista-de-Machine-Learning/blob/master/M%C3%B3dulo%201%20-%20Fundamentos%20de%20Machine%20learning/Desafio2%20-%20Colaboratory.pdf)

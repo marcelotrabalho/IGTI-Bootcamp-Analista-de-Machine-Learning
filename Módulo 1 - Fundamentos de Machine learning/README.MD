@@ -19,4 +19,5 @@ Neste desafio serão abordados todos os conceitos apresentados durante a discipl
 Os alunos deverão desenvolver a prática e, depois, responder às seguintes questões objetivas:
 
 [PDF com o notebook executado]()
+
 [Abra o notebook no google colab](/Desafio2.ipynb)
